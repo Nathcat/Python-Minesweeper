@@ -1,2 +1,2 @@
 # Python-Minesweeper
-Minesweeper in Python
+Minesweeper in Python using the standard library.
